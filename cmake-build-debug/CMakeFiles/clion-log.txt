@@ -1,0 +1,7 @@
+/snap/clion/190/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/190/bin/ninja/linux/ninja -G Ninja -S /home/changjun/hello_cmake -B /home/changjun/hello_cmake/cmake-build-debug
+-- OpenCV Found! - /home/changjun/hello_cmake/thirdparty/OpenCV/install/lib/cmake/opencv4
+-- Eigen3 Found! - /home/changjun/hello_cmake/thirdparty/Eigen3/install/share/eigen3/cmake
+-- Pangolin Found! - /home/changjun/hello_cmake/thirdparty/Pangolin/install/lib/cmake/Pangolin
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/changjun/hello_cmake/cmake-build-debug

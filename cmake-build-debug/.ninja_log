@@ -1,0 +1,24 @@
+# ninja log v5
+440	557	1653371401732493315	hello_cmake	2123672d0b1798d
+2538	2775	1653382414379091168	practice1_eigen_matrix_initialization	7169cd524024fc89
+3761	4119	1653546155544163782	plotTrajectory	b62d1a5807b0cbd6
+14452	14670	1653376562332424889	exec_module1_module2	a2bc5a0f74c65956
+4	1465	1653382487417793807	CMakeFiles/practice1_eigen_matrix.dir/examples/practice1_eigen_matrix.cpp.o	860552e92101aa02
+2	3761	1653546155180160497	CMakeFiles/plotTrajectory.dir/examples/plotTrajectory.cpp.o	9209be433996c4a
+1465	1587	1653382487541798176	practice1_eigen_matrix	8e6af5e175bcc3ac
+2635	2881	1653375114322802388	exec_module1	919b6169c5c16115
+3	52	1653548923928774919	build.ninja	f4420fcaae936e8f
+5	2536	1653382414139081845	CMakeFiles/practice1_eigen_matrix_initialization.dir/examples/practice1_eigen_matrix_initialization.cpp.o	bb1d25841c4c3759
+1927	1943	1653374753361086404	modules/module1/libmodule1.a	43eb5896487f3e37
+1	1065	1653538879873788177	modules/module2/CMakeFiles/module2.dir/src/ClassEigenMat.cpp.o	3729fa5a0ec50787
+0	1926	1653374753345086155	modules/module1/CMakeFiles/module1.dir/src/ClassMat.cpp.o	b11d3f984180f2cd
+2	2634	1653375114078798490	CMakeFiles/exec_module1.dir/examples/exec_module1.cpp.o	3b012b3d9b4cd79d
+2	27446	1653544803806240867	modules/module3/CMakeFiles/module3.dir/src/ClassPangolin.cpp.o	d369b4bccee7fc8c
+1065	1081	1653538879889788183	modules/module2/libmodule2.a	e9c1d1310bcff169
+0	439	1653371401608493113	CMakeFiles/hello_cmake.dir/main.cpp.o	b9d8d1c77623b516
+33	14451	1653376562108426690	CMakeFiles/exec_module1_module2.dir/examples/exec_module1_module2.cpp.o	63a480dedcbee3bf
+27448	27520	1653544803886240690	modules/module3/libmodule3.a	7ce6e46be1cb7f5b
+7	4796	1653744518000490339	CMakeFiles/plotTrajectory.dir/examples/plotTrajectory.cpp.o	9209be433996c4a
+4797	5212	1653744518420489753	plotTrajectory	b62d1a5807b0cbd6
+3	4797	1653744560692441028	CMakeFiles/plotTrajectory.dir/examples/plotTrajectory.cpp.o	9209be433996c4a
+4797	5096	1653744560992440752	plotTrajectory	b62d1a5807b0cbd6
